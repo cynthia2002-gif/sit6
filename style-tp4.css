@@ -1,0 +1,16 @@
+ table {
+      border-collapse: collapse;
+      border: 2px solid rgb(200,200,200);
+      letter-spacing: 1px;
+      font-size: 0.8rem;
+      background-color: bleue;
+    }
+
+    th{
+     background-color: deepskyblue;
+     font-size: 27px;
+    }
+
+    td{
+     background-color: deepskyblue;
+    }

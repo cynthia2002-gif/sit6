@@ -1,0 +1,23 @@
+table{
+border-collapse: ;
+min-width: 400px;
+width: auto;
+border: 2px solid red;
+}
+thead tr{
+	background color: darkmagenta;
+	color: red;
+	text-align: left;
+
+}
+th,td{
+	padding:15 px 20px;
+	border: 1px solid red;
+}
+
+tbody,tr,td{
+	border: 1px solid red;
+}
+
+table,tbody,tr,td,th {
+	background-color: lightskyblue;}

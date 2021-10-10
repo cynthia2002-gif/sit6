@@ -1,4 +1,4 @@
-.page{border:10PX solid darkslateblue; 
+.page{border:5X solid darkslateblue; 
 	border-radius: 10px;
 	box-shadow:2px 4px 3px solidred;
     margin: auto;
@@ -15,16 +15,16 @@ color: darkblue;
 border-radius: 10px;
 	box-shadow:2px 4px 3px darkorange;
    color: darkblue;
-   font-size: 28px;;
+   font-size: 12px;;
   height: 250px;
 
-         padding: 10px;           }
+         padding: 5px;           }
    .infos{color: darkblue;
 	border:2px solid red ;
-	border-radius: 10px;
+	border-radius: 4px;
 	box-shadow:2px 4px 3px darkorange;
     
-   font-size: 28px;
+  
    float: left;
 
 

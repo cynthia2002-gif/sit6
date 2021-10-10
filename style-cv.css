@@ -66,25 +66,31 @@ border-radius: 10px;
 	border:2px solid red ;
 	border:2px solid solid orange;
 	
-
+font-family:tahoma;
 }
 .langues{
-	width: 20%;
+
 	padding: 4px:
 	height: 1000; width: 800px;
 	color: darkblue;
 	border-radius: 2px;
 
 	border:2px solid orange ;
-font-size:15px;
+ height:900PX;
+   width: 800PX;
+   font-size: 10px;
+   font-family: tahoma;
 	border: 5px solid orange;
 }
 .interet{
-	width: 20%;
+	
 	padding: 4px:;
 	
 	border-radius: 2px;
 	height: 1000; width: 800px;
-font-size:15px;
+ height:900PX;
+   width: 800PX;
+   font-size: 10px;
+   font-family: tahoma;
 border:2px solid orange;
 ]

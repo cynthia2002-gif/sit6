@@ -16,11 +16,12 @@ border-radius: 10px;
 	box-shadow:2px 4px 3px darkorange;
    color: darkblue;
    font-size: 28px;
-	height: 250px;
+	height: 250px; 
 .photos {
 	
    
-
+margin:auto;
+	padding:auto;
    float: left;
 
 }
@@ -31,7 +32,7 @@ border-radius: 10px;
 	border-radius: 5px ;
 	box-shadow:2px 4px 3p darkorange;
 	   float:left
-		   height :300px ;
+		   height :800pxx ; width:800px;
 		   width:300px;
     
    font-size: 10px;

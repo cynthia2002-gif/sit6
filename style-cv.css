@@ -2,8 +2,8 @@
 	border-radius: 10px;
 	box-shadow:2px 4px 3px solidred;
     margin: auto;
-   height:900PX;
-   width: 800PX;
+  height:900PX;
+   width: 800PX;;
    font-size: 10px;
    font-family: tahoma;
    padding: 5px;
@@ -15,8 +15,12 @@ color: darkblue;
 border-radius: 10px;
 	box-shadow:2px 4px 3px darkorange;
    color: darkblue;
-   font-size: 28px;
-	height: 250px; width:300px; 
+ 
+	height: 250px;  
+	 font-size: 28px;
+   height: 250px;
+
+         padding: 10px;   
 .photos {
 	 margin-right: -20%;
     height: 900px;
@@ -25,7 +29,7 @@ border-radius: 10px;
 	height 300px;
 
 }
-         padding: 10px;           
+                   
 }
    .infos{color: darkblue;
 	border:2px solid red ;

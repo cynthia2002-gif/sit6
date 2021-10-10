@@ -18,9 +18,10 @@ border-radius: 10px;
    font-size: 28px;
 	height: 250px; width:300px; 
 .photos {
-	
-   
-margin:auto;
+	 margin-right: -20%;
+    height: 900px;
+    width: 100px;
+   float:right
 	height 300px;
 
 }

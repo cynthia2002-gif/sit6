@@ -2,8 +2,8 @@
 	border-radius: 10px;
 	box-shadow:2px 4px 3px solidred;
     margin: auto;
-  height:900PX;
-   width: 800PX;;
+  height:10000PX;
+   width: 950PX;;
    font-size: 10px;
    font-family: tahoma;
    padding: 5px;
@@ -54,7 +54,7 @@ border-radius: 10px;
 	border-radius: 10px;
 	box-shadow:2px 4px 3px darkorange;
 	font-size: 8PX;
-	height: 100px; width: 100px;
+	height: 200px; width: 400px;
 
    
 }

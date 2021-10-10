@@ -2,9 +2,9 @@
 	border-radius: 10px;
 	box-shadow:2px 4px 3px solidred;
     margin: auto;
-  height:900PX;
+   height:900PX;
    width: 800PX;
-   font-size: 12px;
+   font-size: 10px;
    font-family: tahoma;
    padding: 5px;
 color: darkblue;
@@ -24,7 +24,7 @@ border-radius: 10px;
 	border-radius: 10px;
 	box-shadow:2px 4px 3px darkorange;
     
-   font-size: 12px;
+   font-size: 28px;
    float: left;
 
 

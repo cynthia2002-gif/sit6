@@ -40,7 +40,7 @@ border-radius: 10px;
 }
 .formation {
 	border:2px solid red ;
-	border-radius: 10px;
+	border-radius: 5px;
 	box-shadow:2px 4px 3px darkorange;
 	color: darkblue;
     font-size: 10PX;
@@ -74,7 +74,7 @@ border-radius: 10px;
 	
 	color: darkblue;
 	border-radius: 2px;
-border: 9px solid orange;
+border: 2px solid orange;
 	
 
 }
@@ -83,5 +83,5 @@ border: 9px solid orange;
 	padding: 4px:;
 	border-radius: 2px;
 
-border: 9px solid orange;
+border: 2px solid orange;
 }

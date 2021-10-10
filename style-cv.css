@@ -23,6 +23,8 @@ border-radius: 10px;
 	border:2px solid red ;
 	border-radius: 10px;
 	box-shadow:2px 4px 3px darkorange;
+	   height:100%;
+	   width:100%;
     
    font-size: 28px;
    float: left;
@@ -72,7 +74,7 @@ border-radius: 10px;
 	
 	color: darkblue;
 	border-radius: 2px;
-border: 5px solid orange;
+border: 9px solid orange;
 	
 
 }
@@ -81,4 +83,4 @@ border: 5px solid orange;
 	padding: 4px:;
 	border-radius: 2px;
 
-border: 5px solid orange;
+border: 9px solid orange;

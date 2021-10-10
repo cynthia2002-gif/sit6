@@ -17,8 +17,13 @@ border-radius: 10px;
    color: darkblue;
    font-size: 28px;
 	height: 250px;
+.photos {
+	
+   
 
+   float:top- left;
 
+}
          padding: 10px;           
 }
    .infos{color: darkblue;
@@ -33,13 +38,7 @@ border-radius: 10px;
 
 
 }
-.photos {
-	
-   
 
-   float:top- left;
-
-}
 .formation {
 	border:2px solid red ;
 	border-radius: 5px;

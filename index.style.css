@@ -2,7 +2,7 @@ body{
 	font-family: Verdana,Calibri, sans-serif;
 	margin: 0px;
 	padding: 0px;
-	background-color: lawngreen;
+	background-color: green;
 }
 nav > ul{
 	margin: 0px;
@@ -78,7 +78,7 @@ nav li:hover .submenu{
 	background-color: RGBa(000,112,192,0.15);
 }
 .menu-déroulant:hover{
-	border-top: 5px solid #f1dc4f;
+	border-top: 5px solid #green;
 	background-color: RGBa(241,211,79,0.15);
 }
 .menu-contact:hover{
@@ -88,7 +88,7 @@ nav li:hover .submenu{
 
 nav > ul > li:hover a{ 
 	padding: 15px 30px 20px 30px;
-/*Couleur du fond des sous menus*/
+
 }
 .menu-html .submenu{
 	background-color: RGB(200,100,40);
@@ -108,4 +108,4 @@ nav > ul > li:hover a{
 	background-color: rgb(210, 77, 60);
 }
 .menu-css .submenu li:hover{
-	background-color: rgb(000, 115, 200);
+	background-color: rgb(210, 115, 200);

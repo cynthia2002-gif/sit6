@@ -1,8 +1,8 @@
-.page{border:5X solid darkslateblue; 
+.page{border:10PX solid darkslateblue; 
 	border-radius: 10px;
 	box-shadow:2px 4px 3px solidred;
     margin: auto;
-    height:900PX;
+   height:900PX;
    width: 800PX;
    font-size: 10px;
    font-family: tahoma;
@@ -15,16 +15,16 @@ color: darkblue;
 border-radius: 10px;
 	box-shadow:2px 4px 3px darkorange;
    color: darkblue;
-   font-size: 12px;;
-  height: 250px;
+   font-size: 28px;
+   height: 250px;
 
-         padding: 5px;           }
+         padding: 10px;           }
    .infos{color: darkblue;
 	border:2px solid red ;
-	border-radius: 4px;
+	border-radius: 10px;
 	box-shadow:2px 4px 3px darkorange;
     
-  
+   font-size: 28px;
    float: left;
 
 
@@ -72,8 +72,7 @@ border-radius: 10px;
 	
 	color: darkblue;
 	border-radius: 2px;
-border: 5px
-	border:5px solid orange
+border: 5px solid orange;
 	
 
 }
@@ -81,6 +80,5 @@ border: 5px
 	width: 20%;
 	padding: 4px:;
 	border-radius: 2px;
-	border:5px solid orange
 
-border: 5px;
+border: 5px solid orange;

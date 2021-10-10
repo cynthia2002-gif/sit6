@@ -13,11 +13,11 @@ color: darkblue;
 .entete{border: 2PX solid orange;
 border-radius: 10px;
 	box-shadow:2px darkorange;
-   color: darkblue;
+   color: darkbleue;
  
 	
 	
-   height: 250px; 
+   height: 250px; width:100px 
 
          padding: 15px;   
 
@@ -39,7 +39,7 @@ border-radius: 10px;
 	border-radius: 5px ;
 	box-shadow:2px 4px 3p darkorange;
 	   float:left
-		   height :800pxx ; width:800px;
+		   height :800px ; width:800px;
 		   width:300px;
     
    font-size: 10px;

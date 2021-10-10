@@ -1,6 +1,6 @@
 .page{border:10PX solid darkslateblue; 
 	border-radius: 10px;
-	box-shadow:2px 4px 3px solidred;
+	box-shadow:2px  solidred;
     margin: auto;
   height:10000PX;
    width: 950PX;;
@@ -13,7 +13,7 @@ color: darkblue;
 
 .entete{border: 2PX solid orange;
 border-radius: 10px;
-	box-shadow:2px 4px 3px darkorange;
+	box-shadow:2px darkorange;
    color: darkblue;
  
 	
@@ -63,8 +63,8 @@ border-radius: 10px;
 
 }
 .experience{
-	font-family: Tahoma ;
-	margin: 0 0  5% 0;
+	
+	
 	border-radius: 20px;
 	border:2px solid red ;
 
@@ -80,8 +80,7 @@ border: 2px solid orange;
 
 }
 .interet{
-	width: 20%;
-	padding: 4px:;
+	
 	border-radius: 2px;
 
 border: 2px solid orange;

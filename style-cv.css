@@ -17,8 +17,8 @@ border-radius: 10px;
    color: darkblue;
  
 	height: 250px;  
-	 font-size: 28px;
-   height: 250px;
+	
+   height: 10000px;
 
          padding: 10px;   
 .photos {
@@ -44,7 +44,7 @@ border-radius: 10px;
 	border-radius: 5px;
 	box-shadow:2px 4px 3px darkorange;
 	color: darkblue;
-    font-size: 8PX;
+   
    
   
 
@@ -53,7 +53,7 @@ border-radius: 10px;
 	border:2px solid red ;
 	border-radius: 10px;
 	box-shadow:2px 4px 3px darkorange;
-	font-size: 8PX;
+	
 	height: 200px; width: 400px;
 
    

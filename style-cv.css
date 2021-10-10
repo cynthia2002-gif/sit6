@@ -2,7 +2,7 @@
 	border-radius: 10px;
 	box-shadow:2px 4px 3px solidred;
     margin: auto;
-  height:1000PX;
+  height:900PX;
    width: 800PX;;
    font-size: 10px;
    font-family: tahoma;
@@ -54,7 +54,7 @@ border-radius: 10px;
 	border-radius: 10px;
 	box-shadow:2px 4px 3px darkorange;
 	font-size: 8PX;
-	height: 200px; width: 400px;
+	height: 100px; width: 100px;
 
    
 }

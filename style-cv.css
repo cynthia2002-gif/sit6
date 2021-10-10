@@ -64,6 +64,7 @@ border-radius: 10px;
 	margin: 0 0  5% 0;
 	border-radius: 20px;
 	border:2px solid red ;
+	box-shadow:2px 4px 3px darkorange;
 
 	
 
@@ -73,12 +74,14 @@ border-radius: 10px;
 	color: darkblue;
 	border-radius: 2px;
 border: 5px
-	
-
+	box-shadow:2px 4px 3px darkorange;
+font-family:tahoma
 }
 .interet{
 	width: 20%;
 	padding: 4px:;
 	border-radius: 2px;
-
+	box-shadow:2px 4px 3px darkorange;
+font-family:tahoma
 border: 5px;
+]

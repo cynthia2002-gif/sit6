@@ -2,8 +2,8 @@
 	border-radius: 10px;
 	box-shadow:2px 4px 3px solidred;
     margin: auto;
-   height:10000PX;
-   width: 9000PX;
+   height:900PX;
+   width: 800PX;
    font-size: 10px;
    font-family: tahoma;
    padding: 5px;
@@ -16,8 +16,7 @@ border-radius: 10px;
 	box-shadow:2px 4px 3px darkorange;
    color: darkblue;
    font-size: 28px;
-   height: 90000px;
-width:10000px
+   height: 250px;
 
          padding: 10px;           }
    .infos{color: darkblue;
@@ -26,7 +25,8 @@ width:10000px
 	box-shadow:2px 4px 3px darkorange;
     
    font-size: 28px;
-  
+   float: left;
+
 
 }
 .photos {
@@ -51,7 +51,7 @@ width:10000px
 	border-radius: 10px;
 	box-shadow:2px 4px 3px darkorange;
 	font-size: 10PX;
-	
+	height: 1000; width: 800px;
 
    
 }
@@ -60,34 +60,27 @@ width:10000px
 
 }
 .experience{
-	font-size:16px;
+	font-family: Tahoma ;
 	margin: 0 0  5% 0;
 	border-radius: 20px;
 	border:2px solid red ;
-	border:2px solid solid orange;
+
 	
-font-family:tahoma;
+
 }
 .langues{
-
-	padding: 4px:
-	height: 1000; width: 800px;
+	
 	color: darkblue;
 	border-radius: 2px;
+border: 5px
+	border:5px solid orange
+	
 
-	border:2px solid orange ;
- 
-  
-
-	border: 5px solid orange;
 }
 .interet{
-	color: darkblue;
+	width: 20%;
 	padding: 4px:;
-	
 	border-radius: 2px;
-	
-   
-   
-border:2px solid orange;
-]
+	border:5px solid orange
+
+border: 5px;

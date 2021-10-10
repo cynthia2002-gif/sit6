@@ -16,13 +16,12 @@ border-radius: 10px;
 	box-shadow:2px 4px 3px darkorange;
    color: darkblue;
    font-size: 28px;
-	height: 250px; 
+	height: 250px; width:300px; 
 .photos {
 	
    
 margin:auto;
-	padding:auto;
-   float: left;
+	height 300px;
 
 }
          padding: 10px;           

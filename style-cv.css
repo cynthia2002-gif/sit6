@@ -22,14 +22,11 @@ border-radius: 10px;
 
          padding: 10px;   
 .photos {
-	 margin-right: -20%;
-    height: 900px;
-    width: 100px;
+	 margin-top: 50px;
+margin-right: 20px;
+   
    float:right
-	height 300px;
-	text-align:right
-margin:auto
-display:flex
+	
 
 }
                    

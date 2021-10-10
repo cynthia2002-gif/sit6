@@ -28,10 +28,9 @@ border-radius: 10px;
 }
    .infos{color: darkblue;
 	border:2px solid red ;
-	border-radius: 5px;
-	box-shadow:2px darkorange;
-	   height:90%;
-	   width:90%;
+	border-radius: 5px ;
+	box-shadow:2px 4px 3p darkorange;
+	   float:left
     
    font-size: 10px;
    

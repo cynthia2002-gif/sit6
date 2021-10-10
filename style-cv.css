@@ -1,0 +1,84 @@
+.page{border:10PX solid darkslateblue; 
+	border-radius: 10px;
+	box-shadow:2px 4px 3px solidred;
+    margin: auto;
+   height:900PX;
+   width: 800PX;
+   font-size: 10px;
+   font-family: tahoma;
+   padding: 5px;
+color: darkblue;
+}
+
+
+.entete{border: 2PX solid orange;
+border-radius: 10px;
+	box-shadow:2px 4px 3px darkorange;
+   color: darkblue;
+   font-size: 28px;
+   height: 250px;
+
+         padding: 10px;           }
+   .infos{color: darkblue;
+	border:2px solid red ;
+	border-radius: 10px;
+	box-shadow:2px 4px 3px darkorange;
+    
+   font-size: 28px;
+   float: left;
+
+
+}
+.photos {
+	
+   
+   
+   float: right;
+
+}
+.formation {
+	border:2px solid red ;
+	border-radius: 10px;
+	box-shadow:2px 4px 3px darkorange;
+	color: darkblue;
+    font-size: 10PX;
+   
+  
+
+}
+.experience{color: darkblue;
+	border:2px solid red ;
+	border-radius: 10px;
+	box-shadow:2px 4px 3px darkorange;
+	font-size: 10PX;
+	height: 1000; width: 800px;
+
+   
+}
+
+
+
+}
+.experience{
+	font-family: Tahoma ;
+	margin: 0 0  5% 0;
+	border-radius: 20px;
+	border:2px solid red ;
+
+	
+
+}
+.langues{
+	
+	color: darkblue;
+	border-radius: 2px;
+border: 5px
+	
+
+}
+.interet{
+	width: 20%;
+	padding: 4px:;
+	border-radius: 2px;
+
+border: 5px;

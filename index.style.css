@@ -78,14 +78,15 @@ nav li:hover .submenu{
 	background-color: RGBa(000,112,192,0.15);
 }
 .menu-déroulant:hover{
-	border-top: 5px solid #green;
+	border-top: 5px solid green;
 	background-color: RGBa(241,211,79,0.15);
 }
-.menu-contact:hover{
-	border-top: 5px solid #Yellow;
-	background-color: RGBa(220,220,220,0.15);
-}
 
+
+.menu-javascript:hover{
+	border-top: 5px solid violet;
+	background-color: RGBa(400,20,300,0.15);
+	
 nav > ul > li:hover a{ 
 	padding: 15px 30px 20px 30px;
 

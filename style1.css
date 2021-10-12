@@ -1,34 +1,15 @@
-code
-{
-	background:#73bcec;
-	color:#fff;
-	font-family:verdana
-	border:2px solid #060bfa;
-    display: block;
-text-align: center;
-	}
-p
-{
-font-size: 16px;
-color:darkblue;
+
+p1{
+	color: blue;
 }
-
-section
-{  float:left;
-   width:30%;
-	height:400px;
-	border:2px solid #060bfa;
-	border-radius: 6px;
-	background: darkgrey;
+p2{
+	color: red;
 }
-
-header,section
-{
-	margin :0 1.5% 24px 1.5%
-}
-
-footer
-{
-
-	clear:both;
+div{
+	margin: auto;
+	border:  blue 2px solid;
+	padding: 2em;
+	background-color: yellow;
+	width: 20%;
+	text-align: center;
 }

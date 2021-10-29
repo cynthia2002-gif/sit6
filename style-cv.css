@@ -26,7 +26,8 @@ border-radius: 10px;
                    
 }
 
-.photo{float:right-infos;
+.photo{float:right;
+	right:-90px;
 	
 	
 }

@@ -101,7 +101,7 @@ nav > ul > li:hover a{
 }
 .menu-js .submenu{
 	background-color: RGB(251,216,99);
-	padding:10 px 14px 20px;
+	
 }
 .submenu li:hover a{
 	color: #EEE;
@@ -111,8 +111,9 @@ nav > ul > li:hover a{
 }
 .menu-html .submenu li:hover{
 	background-color: rgb(251,216,99);
-	padding:10 px 14px 20px;
-}
+	padding:10 px 14px 20px
+	}
 .menu-css .submenu li:hover{
 	background-color: rgb(251,216,99);
 	padding:10 px 14px 20px;
+	}

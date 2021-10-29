@@ -5,8 +5,10 @@ body{
 	background-color: lawngreen;
 }
 nav > ul{
-	margin: 0px;
-	padding: 0px;
+	margin: 5px;
+	padding: 15px 30px 20px 30px;
+	position:fixed;
+	 top: 50%;
 }
 
 nav li{
@@ -72,27 +74,20 @@ nav li:hover .submenu{
 .menu-html:hover{
 	border-top: 5px solid #e44d26;
 	background-color: RGBa(228,77,38,0.15);
-	padding: 15px 30px 20px 30px;
-	position: fixed;
-  
-  top: 50%;
+	
+	
 }
 .menu-css:hover{
 	border-top: 5px solid #0070bb;
 	background-color: RGBa(000,112,192,0.15);
-	padding: 15px 30px 20px 30px;
-	position: fixed;
-  
-  top: 50%;
+	
+	
 }
 .menu-js:hover{
 	border-top: 5px solid #f1dc4f;
 	background-color: RGBa(241,211,79,0.15);
-	padding: 15px 30px 20px 30px;
-	position: fixed;
-  
-  top: 50%;
-}
+	
+	
 
 }
 

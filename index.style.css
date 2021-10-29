@@ -1,7 +1,7 @@
 body{
 	font-family: Verdana,Calibri, sans-serif;
-	margin: 0px;
-	padding: 0px;
+	margin: 3px;
+	padding: 4px;
 	background-color: lawngreen;
 }
 nav > ul{
@@ -96,9 +96,13 @@ nav > ul > li:hover a{
 .menu-css .submenu{
 	background-color: RGB(000,190,240);
 }
-.menu-js .submenu{
+.menu-déroulant .submenu{
 	background-color: RGB(251,216,99);
+	
 }
+.javascript .submenu{
+
+	background-color: RGB(251,216,99);}
 .submenu li:hover a{
 	color: #EEE;
 	font-weight: bold;

@@ -1,7 +1,7 @@
 body{
 	font-family: Verdana,Calibri, sans-serif;
-	margin: 3px;
-	padding: 4px;
+	margin: 0px;
+	padding: 0px;
 	background-color: lawngreen;
 }
 nav > ul{
@@ -47,10 +47,10 @@ nav a{
 	text-decoration: none;
 }
 nav > ul > li > a{
-	padding: 20px 30px;
+	padding: 10px 50px 20px;;
 	color: #FFF;
 }
-/*Position des sous menus*/
+/
 nav li:hover .submenu{
 	display: inline-block;
 	position: absolute;
@@ -63,27 +63,37 @@ nav li:hover .submenu{
 	border-bottom: 1px solid #CCC;
 }
 .submenu li a{
-	padding: 15px 30px;
+	padding: 0px;
 	font-size: 13px;
 	color: #222538;
 	width: 270px;
-/*Couleur du fond des sous menus*/
+
 }
 .menu-html:hover{
 	border-top: 5px solid #e44d26;
 	background-color: RGBa(228,77,38,0.15);
+	padding: 15px 30px 20px 30px;
+	position: fixed;
+  
+  top: 50%;
 }
 .menu-css:hover{
 	border-top: 5px solid #0070bb;
 	background-color: RGBa(000,112,192,0.15);
+	padding: 15px 30px 20px 30px;
+	position: fixed;
+  
+  top: 50%;
 }
 .menu-js:hover{
 	border-top: 5px solid #f1dc4f;
 	background-color: RGBa(241,211,79,0.15);
+	padding: 15px 30px 20px 30px;
+	position: fixed;
+  
+  top: 50%;
 }
-.menu-contact:hover{
-	border-top: 5px solid #BBB;
-	background-color: RGBa(220,220,220,0.15);
+
 }
 
 nav > ul > li:hover a{ 
@@ -109,7 +119,7 @@ nav > ul > li:hover a{
 
 }
 .menu-html .submenu li:hover{
-	background-color: rgb(210, 77, 60);
+	background-color: rgb(220, 77, 600);
 }
 .menu-css .submenu li:hover{
 	background-color: rgb(000, 115, 200);

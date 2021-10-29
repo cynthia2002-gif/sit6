@@ -133,4 +133,5 @@ nav ul li a, nav ul li:hover a{
 }
 nav li:hover .submenu{
 	display: block;
-	position: absolute;
+	position: fixed;
+	top:auto;

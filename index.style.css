@@ -93,20 +93,26 @@ nav > ul > li:hover a{
 }
 .menu-html .submenu{
 	background-color: RGB(200,100,40);
+	padding:10 px 14px 20px;
 }
 .menu-css .submenu{
 	background-color: RGB(00,190,240);
+	padding:10 px 14px 20px;
 }
 .menu-js .submenu{
 	background-color: RGB(251,216,99);
+	padding:10 px 14px 20px;
 }
 .submenu li:hover a{
 	color: #EEE;
 	font-weight: bold;
+	padding:10 px 14px 20px;
 
 }
 .menu-html .submenu li:hover{
 	background-color: rgb(251,216,99);
+	padding:10 px 14px 20px;
 }
 .menu-css .submenu li:hover{
 	background-color: rgb(251,216,99);
+	padding:10 px 14px 20px;

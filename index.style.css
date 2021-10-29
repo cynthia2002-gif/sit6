@@ -118,8 +118,9 @@ nav > ul > li:hover a{
 }
 .menu-css .submenu li:hover{
 	background-color: rgb(000, 115, 200);
+}
 
-	nav ul li, nav ul li a{
+nav ul li, nav ul li a{
 	width: 100%;
 	text-align: center;
 }

@@ -1,0 +1,31 @@
+div{align-items: stretch;
+        border: 2px solid grey;
+        height: 40%;
+        width: 30%;
+        font-family: tahoma;
+        font-size: 20px;
+      background-color:  rgba(255, 18, 255, 0.2);
+      font-size:    50px;
+      padding: 290px 300px ;
+    }
+    .submenu{
+       
+       border-bottom: 1px solid #CCC;
+       padding: 15px 30px;
+    font-size: 13px;
+    color: #222538;
+    width: 270px;
+       
+    
+    }
+    .menu-html {
+    background-color: RGB(230,100,40);
+}
+.menu-css {
+    background-color: RGB(000,160,240);
+}
+.menu-javascript .submenu{
+    background-color: RGB(251,216,99);
+}
+
+

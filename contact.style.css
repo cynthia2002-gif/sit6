@@ -1,0 +1,12 @@
+	body {   
+		background: rgba(255, 18, 255, 0.2)
+	}
+	h1,h2,h3{
+		font-family: fantasy;
+		font-size: 50px;
+		font-weight: 400;
+	}
+	P{
+		font-size: 25px;
+		font-family: tahoma;
+	}

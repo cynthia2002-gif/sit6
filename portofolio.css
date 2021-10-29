@@ -1,0 +1,142 @@
+header>h1 { 
+    display: flex;
+    height: 120px;
+    min-width: 140px;
+    align-items: center;
+    border: solid #ae9c69;
+    background-color: rgba(255, 18, 255, 0.1);
+    text-shadow: #000 0 0 .2em;
+      color: #ffd700;;
+font-size: 35px;
+
+
+
+}
+.bloc2{
+    border: 2px solid darkred;
+        border-radius: 3px;
+    width: 910px;
+    height: 770px;
+    float: right;
+   
+    background-color: rgba(255, 18, 255, 0.2);
+   
+}
+
+.menu{
+	border: 2px solid darkgreen;
+	height: 500px;
+    width: 300px;
+    float: left;
+    background-color: silver;
+}
+
+footer{ position: absolute;
+    bottom: -335px;
+    left:0px;
+    right: 0px;
+    width: 200¤;
+    background-color: rgba(255, 18, 255, 0.1);
+    border: 2px  solid #ffd700 ;
+ 
+      color: #ffd700;
+font-size: 35px;
+                        
+    
+    
+   }
+
+  body{
+    
+    background-color: rgba(27, 18, 71, 0.5);
+}
+ .Menu{ 
+    float: left;
+    border: 2px solid black;
+    height: 550px;
+    width: 20%;
+    margin: 1.5em 0px 2em 2em;
+}
+
+h2{
+    font-family: cursive;
+    margin-bottom: 1em;
+    text-align: center;
+    font-size: 30px;
+}
+li{
+    border: 2px solid black;
+    width: 85%;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px 5px black;
+    text-align: center;
+    background-color: blueviolet ;
+}
+/** Affichage du bloc 3 **/ 
+.main{
+    width: 74%;
+    border: 1px solid black;
+    margin: 1.5em 2em 2em 0px;
+    height: 550px;
+    float: right;
+}
+/** Frame du bloc 3 **/
+.frame{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    border: black 1px solid;
+}
+/**Menu et Sous Menu**/
+nav > ul{
+    margin: 0px;
+    padding: 0px;
+}   
+nav li{
+    list-style-type: none;
+}
+.submenu{
+    display: none;
+}
+/** Affichage des boutons du menu **/
+nav > ul > li{
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+nav > ul::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+nav a{
+    display: block;
+    text-decoration: none;
+    font-family: cursive;
+}
+nav > ul > li > a{
+
+    padding: 20px 10px ;
+    color: darkblue;
+}
+/** Affichage des boutons des sous menu **/
+nav li:hover .submenu{
+    display: block;
+    position: absolute;
+    top: 10px;
+    left: 102%;
+    padding: 0px;
+    transition-delay: 2s;
+}
+.submenu li{
+    border-bottom: 1px solid #CCC;
+}
+.submenu li a{
+    font-size: 1em;
+    color: #222538;
+    width: 240px;
+
+}
+/** "Taille" de la case des boutons du sous menu **/
+nav > ul > li:hover a{
+    padding: 14px 72px 14px 30px;

@@ -26,7 +26,8 @@ border-radius: 10px;
                    
 }
 
-.photo{float:left;
+.photo{float:right;
+	
 }
    .infos{color: darkblue;
 	border:2px solid red ;

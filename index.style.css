@@ -83,12 +83,16 @@ nav li:hover .submenu{
 	
 	
 }
-.menu-js:hover{
+.javascript:hover{
 	border-top: 5px solid #f1dc4f;
 	background-color: RGBa(241,211,79,0.15);
 	
 	
 
+}
+.menu-déroulant:hover{
+	border-top: 5px solid #f1dc4f;
+	background-color: RGBa(241,00,122,0.15);
 }
 
 nav > ul > li:hover a{ 

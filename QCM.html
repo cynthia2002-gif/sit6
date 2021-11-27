@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>questionnaire</title>
+	<link rel="stylesheet" type="text/css" href="qcmstyle.css">
+</head>
+<body>
+
+
+	
+	<div>
+<h1 align="center">Culture informatique</h1> <br>
+<p>Ce qcm est une auto-évalutaion sur vos connaissnces dans le domaine informatique , il faut cocher ou une les bonnes réponses aux question suivantes</p>
+</div>
+<div class="dynamic">
+	<ul>
+		<li><p id="q1">Réponse de la question 1</p></li>
+
+		<li><p id="q2">Réponse de la question 2</p></li>
+
+		<li><p id="q3">Réponse de la question 3</p></li>
+
+		<li><p id="q4">Réponse de la question 4</p></li>
+
+		<li><p id="q5">Réponse de la question 5</p></li>
+
+		<li><p id="q6">Réponse de la question 6</p></li>
+
+		<li><p id="q7">Réponse de la question 7</p></li>
+
+		<li><p id="q8">Réponse de la question 8</p></li>
+
+		<li><p id="q9">Réponse de la question 9</p></li>
+
+		<li><p id="q10">Réponse de la question 10</p></li>		
+	</ul>
+</div>
+
+
+</p>
+<!--Question 1--> 
+
+<h>Le dévellopeur web a pour missions principale de :</h>
+<p>consulter les sites web:<input type="checkbox" name="r1" id="r1"   onclick="incorrect1()" /><br />
+donner son avis sur les sites web:<input type="checkbox" name="r1" id="r1"  onclick="incorrect1()" /><br />
+concevoir des sites sur mesure ou adapte des solutions techniques existantes en fonction du projet et de la demande du client.:<input type="checkbox" name="r2" id="r2" value="blue"  onclick="correct1()" /><br />
+réaliser l'ensemble des fonctionnalités techniques d'un site ou d'une application web.:<input type="checkbox" name="r2" id="r2" value="blue" onclick="correct1()" /><br />
+
+
+</p>
+<!--Question 2--> 
+<h>Le serveur d'une base de donnée doit assurer :</h>
+<p>L'integrité des données:<input type="checkbox" name="r2" id="r2" value="blue" onclick="correct2()" /><br />
+la sécurité des données:<input type="checkbox" name="r2" value="r2" onclick="correct2()" /><br />
+la fuite des donées:<input type="checkbox" name="r1" value="r1"onclick="incorrect2()" /><br />
+le partage des donées:<input type="checkbox" name="r1" value="r1" onclick="incorrect()" /><br />
+
+
+</p>
+<!--Question 3--> 
+<h>quelles ont les servers de base de donnée existante ?: </h>
+<p>Oracle:<input type="checkbox" name="r2" id="r2" onclick="correct3()" /><br />
+Sybase:<input type="checkbox" name="r2" id="r2" onclick="correct3()" /><br />
+Mysql:<input type="checkbox" name="r2" id="r2" onclick="correct3()" /><br />
+Myserver:<input type="checkbox" name="r1" id="r1" onclick="incorrect3()" /><br />
+Database:<input type="checkbox" name="r1" id="r1" onclick="incorrect3()" /><br />
+</p>
+<!--Question 4--> 
+<h>HTML est considéré comme ?:</h>
+<p>Langage de programmation :<input type="checkbox" name="r1" id="r1" onclick="incorrect4()" /><br />
+Langage poo(programation objet orienté):<input type="checkbox" name="r1" id="r1" onclick="incorrect4()" /><br />
+Un langage sql:<input type="checkbox" name="r1" id="r1" onclick="incorrect4()"/><br />
+Un langage de balises:<input type="checkbox" name="r2" id="r2" onclick="correct4()" /><br />
+</p>
+<!--Question 5--> 
+<h>HTML utilise des ?:</h>
+<p> Balises définis par l’utilisateur:<input type="checkbox" name="r1" id="r1" onclick="incorrect5()" /><br />
+ Balises prédéfinis:<input type="checkbox" name="r1" id="r1" onclick="incorrect5()" /><br />
+Balises fixes définis par le langage:<input type="checkbox" name="r2" id="r2"  onclick="correct5()" /><br />
+Balises uniquement pour les lien:<input type="checkbox" name="r1" id="r1" onclick="incorrect5()" /><br />
+</p>
+<!--Question 6--> 
+<h>un document html est enregistré sous la forme:</h>
+<p>.HTML:<input type="checkbox" name="r2" id="r2" onclick="correct6()" /><br />
+.XHTML:<input type="checkbox" name="r1" id="r1" onclick="incorrect6()" /><br />
+.XML:<input type="checkbox" name="r1" value="r1" onclick="incorrect6()" /><br />
+</p>
+<!--Question 7--> 
+<h>L'acronyme du langage SQL est ?:</h>
+<p>Structured Query Language:<input type="checkbox" name="r2" id="r2"  onclick="correct7()" /><br />
+Structured Quiet Language:<input type="checkbox" name="r1" id="r1" /><br onclick="incorrect7()" />
+</p>
+<!--Question 8-->
+<h>Le language universelle des langages de programations et des logicielles informatiques est:</h>
+<p>
+	le Chinois:<input type="checkbox" name="r1" id="r1" onclick="incorrect8()" /><br />
+	L'Allemand:<input type="checkbox" name="r1" id="r1" onclick="incorrect8()" /><br />
+	Le Francais:<input type="checkbox" name="r1" id="r1" onclick="incorrect8()" /><br />
+	L'Anglais:<input type="checkbox" name="r2" id="r2" onclick="correct8()" /><br />
+	Le Suédois :<input type="checkbox" name="r1" value="r1" onclick="incorrect8()" /><br />
+</p>
+<!--Question 9-->
+<h>Quelles sont les noms précis des spécilaités d'un bts sio ?:</h>
+<p>
+	Conception et application:<input type="checkbox" name="r1" id="r1" onclick="incorrect9()" /><br />
+	solution métier et logicielle:<input type="checkbox" name="r2" id="r2" onclick="correct9()" /><br />
+	Adminastrations réseaux :<input type="checkbox" name="r1" id="r1" onclick="incorrect9()" /><br />
+	Systémes réseaux et applications:<input type="checkbox" name="r1" id="r1" onclick="incorrect9()"  onclick="correct9()" /><br />
+solutions d’infrastructure, systèmes et réseaux:<input type="checkbox" name="colors" value="blue"  onclick="correct9()" /><br />
+	
+</p>
+
+<!--Question 10-->
+<h> css est l'acronyme de :</h>
+<p>Cascading Style Sheets:<input type="checkbox" name="r2" id="r2" onclick="correct10()" /><br />
+cascading sheet shapes:<input type="checkbox" name="r1" id="r1" onclick="incorrect10()" /><br />
+cascading style sword:<input type="checkbox" name="r1" id="r1" onclick="incorrect10()" /><br />
+</p>
+	<br><br>
+	
+	
+
+<input type="button" id="corriger" value="Valider" onclick="valider()"></form>
+<form><button>Réinitialiser</button></form>
+<form  method="get" action="corrigé.html"><button>corrigé</button>
+
+
+
+
+
+<script type="text/javascript">
+
+var result = 1
+function valider(){
+	if (r2.checked = 1 ){
+		alert("QCM validé")
+	}else{ 
+		alert("Une ou plusieurs mauvaises réponses")
+	}
+}
+
+function correct1() {
+  document.getElementById("q1").innerHTML = "Bonne réponses";
+}
+function incorrect1(){
+ document.getElementById("q1").innerHTML = "Mauvaise réponse";
+}
+function correct2() {
+  document.getElementById("q2").innerHTML = "Bonne réponse";
+}
+function incorrect2(){
+ document.getElementById("q2").innerHTML = "Mauvaise réponse";
+}
+function correct3() {
+  document.getElementById("q3").innerHTML = "Bonne réponses";
+}
+function incorrect3(){
+ document.getElementById("q3").innerHTML = "Mauvaise réponse";
+}
+function correct4() {
+  document.getElementById("q4").innerHTML = "Bonne réponses";
+}
+function incorrect4(){
+ document.getElementById("q4").innerHTML = "Mauvaise réponse";
+}
+function correct5() {
+  document.getElementById("q5").innerHTML = "Bonne réponses";
+}
+function incorrect5(){
+ document.getElementById("q5").innerHTML = "Mauvaise réponse";
+}
+function correct6() {
+  document.getElementById("q6").innerHTML = "Bonne réponses";
+}
+function incorrect6(){
+ document.getElementById("q6").innerHTML = "Mauvaise réponse";
+}
+function correct7() {
+  document.getElementById("q7").innerHTML = "Bonne réponses";
+}
+function incorrect7(){
+ document.getElementById("q7").innerHTML = "Mauvaise réponse";
+}
+function correct8() {
+  document.getElementById("q8").innerHTML = "Bonne réponses";
+}
+function incorrect8(){
+ document.getElementById("q8").innerHTML = "Mauvaise réponse";
+}
+function correct9() {
+  document.getElementById("q9").innerHTML = "Bonne réponses";
+}
+function incorrect9(){
+ document.getElementById("q9").innerHTML = "Mauvaise réponse";
+}
+function correct10() {
+  document.getElementById("q10").innerHTML = "Bonne réponses";
+}
+function incorrect10(){
+ document.getElementById("q10").innerHTML = "Mauvaise réponse";
+}
+</script>
+
+
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
